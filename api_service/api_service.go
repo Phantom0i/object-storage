@@ -1,4 +1,4 @@
-package api_service
+package main
 
 import (
 	"me/demo/objectStorage/api_service/heartbeat"
