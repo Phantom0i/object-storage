@@ -3,7 +3,7 @@ package api_service
 import (
 	"me/demo/objectStorage/api_service/heartbeat"
 	"net/http"
-	"me/demo/objectStorage/data_service/objects"
+	"me/demo/objectStorage/api_service/objects"
 	"me/demo/objectStorage/api_service/locate"
 	"log"
 	"os"

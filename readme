@@ -1,0 +1,7 @@
+## need software
+RabbitMQ
+ElasticSearch
+
+## need package
+github.com/streadway/amqp
+
