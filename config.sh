@@ -1,6 +1,6 @@
 #!/bin/sh
 
-RABBITMQ_SERVER=ampq://test:test@10.29.102.173:5672
+export RABBITMQ_SERVER=ampq://test:test@127.0.0.1:5672
 
 # api service
 LISTEN_ADDRESS=:12345

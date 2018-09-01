@@ -1,0 +1,1 @@
+LISTEN_ADDRESS=10.29.1.1:12345 STORAGE_ROOT=/tmp/1/ go run data_service/data_service.go
